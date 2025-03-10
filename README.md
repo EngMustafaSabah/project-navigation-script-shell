@@ -1,0 +1,1 @@
+# dash-help-me-open-or-go-to-any-where-like-aliases-shell-

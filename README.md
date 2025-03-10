@@ -21,7 +21,7 @@ This Bash script, `dash.sh`, provides a convenient way to quickly navigate to an
     * Open your terminal and navigate to the directory where you want to store the script.
     * Run the following command to clone the repository:
         ```bash
-        git clone [https://github.com/EngMustafaSabah/project-navigation-script-shell.git](https://www.google.com/search?q=https://github.com/EngMustafaSabah/project-navigation-script-shell.git)
+        git clone [https://github.com/EngMustafaSabah/project-navigation-script-shell.git](https://github.com/EngMustafaSabah/project-navigation-script-shell.git)
         ```
 2.  **Navigate to the Directory:**
     * Change your current directory to the cloned repository:
